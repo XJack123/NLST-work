@@ -1,0 +1,8 @@
+{
+    "data_base_dir": "./NLSTNIfTIdata/",
+    "data_list_file_path": "./nlst_detection_datalist.json",
+    "model_path": "./models/DLCSD-mD.pt",
+    "result_list_file_path": "./nlst_detection_results.json",
+    "tfevent_path": "./runs/detection_nlst"
+}
+

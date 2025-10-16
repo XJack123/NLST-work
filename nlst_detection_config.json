@@ -1,0 +1,10 @@
+{
+  "gt_box_mode": "cccwhd",
+  "val_patch_size": [512, 512, 208],
+  "score_thresh": 0.02,
+  "nms_thresh": 0.22,
+  "returned_layers": [1, 2],
+  "base_anchor_shapes": [[6, 8, 4], [8, 6, 5], [10, 10, 6]]
+}
+
+
